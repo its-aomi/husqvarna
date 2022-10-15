@@ -100,10 +100,10 @@
 	#description a:hover, #footer a:hover {
 		border-bottom: none;
 	}</style>
-<link rel="icon" href="http://localhost/japan/wp-content/uploads/2022/09/favicon-hus.png" sizes="32x32" />
-<link rel="icon" href="http://localhost/japan/wp-content/uploads/2022/09/favicon-hus.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="http://localhost/japan/wp-content/uploads/2022/09/favicon-hus.png" />
-<meta name="msapplication-TileImage" content="http://localhost/japan/wp-content/uploads/2022/09/favicon-hus.png" />
+<link rel="icon" href="http://localhost/japan/wp-content/uploads/2022/10/favicon.png" sizes="32x32" />
+<link rel="icon" href="http://localhost/japan/wp-content/uploads/2022/10/favicon.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://localhost/japan/wp-content/uploads/2022/10/favicon.png" />
+<meta name="msapplication-TileImage" content="http://localhost/japan/wp-content/uploads/2022/10/favicon.png" />
 			</head>
 			<body class="ltr">
 				<div id="description">
